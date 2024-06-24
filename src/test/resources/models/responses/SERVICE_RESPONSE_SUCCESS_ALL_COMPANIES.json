@@ -1,0 +1,1040 @@
+{
+  "total_results": 20,
+  "items": [
+    {
+      "company_number": "06500244",
+      "company_type": "ltd",
+      "title": "BBC LIMITED",
+      "company_status": "active",
+      "date_of_creation": "2008-02-11",
+      "address": {
+        "locality": "Retford",
+        "postal_code": "DN22 0AD",
+        "premises": "Boswell Cottage Main Street",
+        "address_line_1": "North Leverton",
+        "country": "England"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "12990923",
+      "company_type": "ltd",
+      "title": "BASEMENTS SOLUTIONS LIMITED",
+      "company_status": "active",
+      "date_of_creation": "2020-11-02",
+      "address": {
+        "locality": "London",
+        "postal_code": "W5 2AR",
+        "premises": "52a",
+        "address_line_1": "Gordon Road",
+        "country": "England"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "07520089",
+      "company_type": "ltd",
+      "title": "BBC AND CO LIMITED",
+      "company_status": "active",
+      "date_of_creation": "2011-02-07",
+      "address": {
+        "locality": "Lostwithiel",
+        "postal_code": "PL22 0HG",
+        "premises": "Unit 2",
+        "address_line_1": "Restormel Estate"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "09670032",
+      "company_type": "ltd",
+      "title": "BBC AESTHETICS LIMITED",
+      "company_status": "active",
+      "date_of_creation": "2015-07-03",
+      "address": {
+        "locality": "Liverpool",
+        "postal_code": "L3 9NG",
+        "premises": "Suite 4",
+        "address_line_1": "Second Floor Honeycomb",
+        "country": "England"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "12763638",
+      "company_type": "ltd",
+      "title": "BBC & GLAZING LTD",
+      "company_status": "dissolved",
+      "date_of_creation": "2020-07-23",
+      "address": {
+        "locality": "Birmingham",
+        "postal_code": "B20 1HJ",
+        "premises": "30",
+        "address_line_1": "Chalcot Grove",
+        "country": "England"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "07215276",
+      "company_type": "ltd",
+      "title": "BBC APPLICATIONS LIMITED",
+      "company_status": "dissolved",
+      "date_of_creation": "2010-04-07",
+      "address": {
+        "locality": "Bingley",
+        "postal_code": "BD16 2RX",
+        "premises": "2",
+        "address_line_1": "Longwood Hall",
+        "country": "England"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "SC783452",
+      "company_type": "ltd",
+      "title": "BBC A24 LTD",
+      "company_status": "active",
+      "date_of_creation": "2023-09-21",
+      "address": {
+        "locality": "Edinburgh",
+        "postal_code": "EH2 3JP",
+        "premises": "3f1",
+        "address_line_1": "Third Floor, 3 Hill Street",
+        "country": "Scotland"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "01481686",
+      "company_type": "ltd",
+      "title": "B.B.C. BATHROOMS LIMITED",
+      "company_status": "liquidation",
+      "date_of_creation": "1980-02-27",
+      "address": {
+        "postal_code": "N15 6HT",
+        "premises": "602/604 ",
+        "address_line_1": "Seven Sisters Road"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "04543129",
+      "company_type": "ltd",
+      "title": "B.B.C (BIG BEN CONSULTING) GROUP LTD",
+      "company_status": "dissolved",
+      "date_of_creation": "2002-09-24",
+      "address": {
+        "locality": "London",
+        "postal_code": "SE19 3RW",
+        "premises": "67",
+        "address_line_1": "Westow Street"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "14006528",
+      "company_type": "ltd",
+      "title": "BBC - BLESSING BEAUTY COSMETICS LIMITED",
+      "company_status": "active",
+      "date_of_creation": "2022-03-28",
+      "address": {
+        "locality": "London",
+        "postal_code": "N9 9QR",
+        "premises": "23",
+        "address_line_1": "West Close",
+        "country": "England"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "07201733",
+      "company_type": "private-limited-guarant-nsc",
+      "title": "BBC (BRISTOL) CLUB LIMITED",
+      "company_status": "dissolved",
+      "date_of_creation": "2010-03-24",
+      "address": {
+        "locality": "Bristol",
+        "postal_code": "BS1 3AG",
+        "premises": "C/O Begbies Traynor, 3rd Floor Castlemead",
+        "address_line_1": "Lower Castle Street"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "11811163",
+      "company_type": "ltd",
+      "title": "BBC CARE SERVICE LIMITED",
+      "company_status": "active",
+      "date_of_creation": "2019-02-06",
+      "address": {
+        "locality": "Chertsey",
+        "postal_code": "KT16 0RS",
+        "premises": "3000",
+        "address_line_1": "Hillswood Drive",
+        "country": "England"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "12800068",
+      "company_type": "ltd",
+      "title": "BBC CATERING LTD",
+      "company_status": "active",
+      "date_of_creation": "2020-08-07",
+      "address": {
+        "locality": "Blackburn",
+        "postal_code": "BB2 2AN",
+        "premises": "Unit C",
+        "address_line_1": "Weir St",
+        "country": "United Kingdom"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "04723022",
+      "company_type": "private-limited-guarant-nsc-limited-exemption",
+      "title": "BBC CHILDREN IN NEED",
+      "company_status": "active",
+      "date_of_creation": "2003-04-04",
+      "address": {
+        "locality": "Mediacity Uk",
+        "postal_code": "M50 2LH",
+        "premises": "4th",
+        "address_line_1": "Floor Dock House",
+        "country": "England"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "09905558",
+      "company_type": "ltd",
+      "title": "BBC CHILDREN'S PRODUCTIONS LIMITED",
+      "company_status": "active",
+      "date_of_creation": "2015-12-07",
+      "address": {
+        "locality": "London",
+        "postal_code": "W12 7FA",
+        "premises": "1",
+        "address_line_1": "Television Centre",
+        "country": "England"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "07211699",
+      "company_type": "private-limited-guarant-nsc",
+      "title": "BBC CLUB SPORTS AND LEISURE LIMITED",
+      "company_status": "active",
+      "date_of_creation": "2010-04-01",
+      "address": {
+        "locality": "London",
+        "postal_code": "W1A 1AA",
+        "premises": "London Broadcasting House Bbc Club Sports And Leisure Ltd",
+        "address_line_1": "Portland Place",
+        "country": "England"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "13005466",
+      "company_type": "ltd",
+      "title": "BBC COFFEE LIMITED",
+      "company_status": "active",
+      "date_of_creation": "2020-11-09",
+      "address": {
+        "locality": "Southampton",
+        "postal_code": "SO16 0BT",
+        "premises": "Adanac Business Park, Adanac North, Unit E3 & E4,",
+        "address_line_1": "Adanac Drive",
+        "country": "United Kingdom"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "09158624",
+      "company_type": "ltd",
+      "title": "BBC COMEDY PRODUCTIONS LIMITED",
+      "company_status": "active",
+      "date_of_creation": "2014-08-01",
+      "address": {
+        "locality": "London",
+        "postal_code": "W12 7FA",
+        "premises": "1",
+        "address_line_1": "Television Centre",
+        "country": "United Kingdom"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "04463534",
+      "company_type": "ltd",
+      "title": "BBC COMMERCIAL LIMITED",
+      "company_status": "active",
+      "date_of_creation": "2002-06-18",
+      "address": {
+        "locality": "London",
+        "postal_code": "W12 7FA",
+        "premises": "1",
+        "address_line_1": "Television Centre",
+        "country": "United Kingdom"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    },
+    {
+      "company_number": "13637184",
+      "company_type": "ltd",
+      "title": "BBC CONCRETE PRODUCTS LTD",
+      "company_status": "active",
+      "date_of_creation": "2021-09-22",
+      "address": {
+        "locality": "Dewsbury",
+        "postal_code": "WF12 9QB",
+        "premises": "Cartwright Mill",
+        "address_line_1": "Watergate Road",
+        "country": "England"
+      },
+      "officers": [
+        {
+          "name": "RE SECRETARIES LIMITED",
+          "officer_role": "corporate-secretary",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "London",
+            "postal_code": "WC2N 5JR",
+            "premises": "1-3",
+            "address_line_1": "Strand",
+            "country": "England"
+          }
+        },
+        {
+          "name": "ELLIOT, Stephen",
+          "officer_role": "director",
+          "appointed_on": "2021-09-14",
+          "address": {
+            "locality": "Cardiff",
+            "postal_code": "CF11 0SN",
+            "premises": "Global Reach",
+            "address_line_1": "Dunleavy Drive",
+            "country": "United Kingdom"
+          }
+        },
+        {
+          "name": "KELSEY, Mark Vickers",
+          "officer_role": "director",
+          "appointed_on": "2021-08-25",
+          "address": {
+            "locality": "Sutton",
+            "postal_code": "SM2 5AS",
+            "premises": "Quadrant House",
+            "address_line_1": "The Quadrant",
+            "country": "United Kingdom"
+          }
+        }
+      ]
+    }
+  ]
+}
